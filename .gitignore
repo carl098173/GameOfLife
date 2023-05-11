@@ -1,0 +1,6 @@
+*.log
+*.git
+*.vcx*
+/x64/
+/.git/
+/build/
